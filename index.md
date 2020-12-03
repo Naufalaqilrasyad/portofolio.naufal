@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -102,9 +102,7 @@
         <p class="animasi-ketikan">web progamer cilik from indonesian, merauke</p>
      <br><a class="button" href="#">about me<a>
                 <br><br><h9>.</h9>
-  </div>
-     </div>
-    </div>
+ 
 </div>
 </div>
 
